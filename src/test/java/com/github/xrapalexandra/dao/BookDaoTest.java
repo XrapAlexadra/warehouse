@@ -4,7 +4,7 @@ import com.github.xrapalexandra.dao.impl.BookDaoImpl;
 import com.github.xrapalexandra.exeptoin.DaoException;
 import com.github.xrapalexandra.model.Book;
 import com.github.xrapalexandra.model.PublishHouse;
-import com.github.xrapalexandra.warehouse.Warehouse;
+import com.github.xrapalexandra.model.Warehouse;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;

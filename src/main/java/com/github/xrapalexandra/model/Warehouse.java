@@ -1,6 +1,4 @@
-package com.github.xrapalexandra.warehouse;
-
-import com.github.xrapalexandra.model.Book;
+package com.github.xrapalexandra.model;
 
 import java.util.ArrayList;
 import java.util.List;
