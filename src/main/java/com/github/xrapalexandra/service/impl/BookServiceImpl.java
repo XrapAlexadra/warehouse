@@ -1,6 +1,8 @@
 package com.github.xrapalexandra.service.impl;
 
-import com.github.xrapalexandra.comparator.*;
+
+import com.github.xrapalexandra.comparator.BookComparator;
+import com.github.xrapalexandra.comparator.BookComparatorFactory;
 import com.github.xrapalexandra.dao.BookDao;
 import com.github.xrapalexandra.exeptoin.DaoException;
 import com.github.xrapalexandra.dao.impl.BookDaoImpl;

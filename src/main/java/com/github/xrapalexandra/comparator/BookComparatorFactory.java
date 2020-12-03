@@ -1,6 +1,12 @@
 package com.github.xrapalexandra.comparator;
 
-import com.github.xrapalexandra.comparator.impl.*;
+
+import com.github.xrapalexandra.comparator.impl.BookAuthorComparator;
+import com.github.xrapalexandra.comparator.impl.BookIdComparator;
+import com.github.xrapalexandra.comparator.impl.BookNameComparator;
+import com.github.xrapalexandra.comparator.impl.BookPublishHouseComparator;
+import com.github.xrapalexandra.comparator.impl.BookPriceComparator;
+import com.github.xrapalexandra.comparator.impl.BookPublishingYearComparator;
 import com.github.xrapalexandra.model.SortingType;
 
 import java.util.HashMap;
